@@ -58,7 +58,7 @@
         <!-- Navbar Start -->
         <div class="container-fluid nav-bar bg-transparent ">
             <nav class="navbar navbar-expand-lg bg navbar-light py-0 px-4">
-                <a href="index.html" class="navbar-brand d-flex align-items-center text-center">
+                <a href="gallery.php" class="navbar-brand d-flex align-items-center text-center">
                     <div class=" p-2 me-2">
                         <img class="pic" src="img/images bg.png">
                     </div>
@@ -69,30 +69,30 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
-                        <a href="index.html" class="nav-item nav-link active">Home</a>
-                        <a href="about.html" class="nav-item nav-link">About</a>
+                        <a href="index.php" class="nav-item nav-link active">Home</a>
+                        <a href="about.php" class="nav-item nav-link">About</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property</a>
                             <div class="dropdown-menu rounded-0 m-0">
-                                <a href="property-list.html" class="dropdown-item">Property List</a>
-                                 <!-- <a href="Pool villa.html" class="dropdown-item">Pool Villa</a>
+                                <a href="property-list.php" class="dropdown-item">Property List</a>
+                                 <!-- <a href="Pool villa.php" class="dropdown-item">Pool Villa</a>
 
-                                <a href="wooden house.html" class="dropdown-item">Wooden House</a>
-                                <a href="Eden Gardens.html" class="dropdown-item">Eden Gardens</a>  -->
+                                <a href="wooden house.php" class="dropdown-item">Wooden House</a>
+                                <a href="Eden Gardens.php" class="dropdown-item">Eden Gardens</a>  -->
                             </div>
                         </div>
-                        <a href="gallery.html" class="nav-item nav-link active">Gallery</a>
+                        <a href="gallery.php" class="nav-item nav-link active">Gallery</a>
 <!-- 
                          <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property types</a>
                             <div class="dropdown-menu rounded-0 m-0">
-                                <a href="testimonial.html" class="dropdown-item">Pool villa</a>
-                                <a href="woodenhouse.html" class="dropdown-item">wooden house</a>
-                                <a href="404.html" class="dropdown-item">Eden Gardens</a>
+                                <a href="testimonial.php" class="dropdown-item">Pool villa</a>
+                                <a href="woodenhouse.php" class="dropdown-item">wooden house</a>
+                                <a href="404.php" class="dropdown-item">Eden Gardens</a>
 
                             </div>
                         </div>  -->
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
                     <a href="tel:7989732763" class="btn  px-3 d-none d-lg-flex nav-item text-white font">7989732763</a>
                 </div>
@@ -477,7 +477,7 @@
             <div class="container py-5">
                 <div class="row g-5">
                     <div class="col-lg-3 col-md-6 col-6">
-                    <a href="index.html">
+                    <a href="gallery.php">
                         <img src="img/images.png" class="img-fluid" alt="">
                     </a>
                     </div>
@@ -541,8 +541,8 @@
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
                             <!-- &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved. -->
-                            <span class="text-body"><a href="terms.html" class=" text-white">Terms & conditions
-                                    :</a><a href="privacy.html" class=" text-white"> Privacy & Policy</a></span>
+                            <span class="text-body"><a href="terms.php" class=" text-white">Terms & conditions
+                                    :</a><a href="privacy.php" class=" text-white"> Privacy & Policy</a></span>
 
                         </div>
 

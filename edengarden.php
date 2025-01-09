@@ -53,10 +53,11 @@
         <!-- Spinner End -->
 
 
-         <!-- Navbar Start -->
-         <div class="container-fluid nav-bar bg-transparent ">
+   
+           <!-- Navbar Start -->
+           <div class="container-fluid nav-bar bg-transparent ">
             <nav class="navbar navbar-expand-lg bg navbar-light py-0 px-4">
-                <a href="wood.html" class="navbar-brand d-flex align-items-center text-center">
+                <a href="edengarden.php" class="navbar-brand d-flex align-items-center text-center">
                     <div class=" p-2 me-2">
                         <img class="pic" src="img/images bg.png">
                     </div>
@@ -67,30 +68,30 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
-                        <a href="index.html" class="nav-item nav-link active">Home</a>
-                        <a href="about.html" class="nav-item nav-link">About</a>
+                        <a href="index.php" class="nav-item nav-link active">Home</a>
+                        <a href="about.php" class="nav-item nav-link">About</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property</a>
                             <div class="dropdown-menu rounded-0 m-0">
-                                <a href="property-list.html" class="dropdown-item">Property List</a>
-                                 <!-- <a href="Pool villa.html" class="dropdown-item">Pool Villa</a>
+                                <a href="property-list.php" class="dropdown-item">Property List</a>
+                                 <!-- <a href="Pool villa.php" class="dropdown-item">Pool Villa</a>
 
-                                <a href="wooden house.html" class="dropdown-item">Wooden House</a>
-                                <a href="Eden Gardens.html" class="dropdown-item">Eden Gardens</a>  -->
+                                <a href="wooden house.php" class="dropdown-item">Wooden House</a>
+                                <a href="Eden Gardens.php" class="dropdown-item">Eden Gardens</a>  -->
                             </div>
                         </div>
-                        <a href="gallery.html" class="nav-item nav-link active">Gallery</a>
+                        <a href="gallery.php" class="nav-item nav-link active">Gallery</a>
 <!-- 
                          <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property types</a>
                             <div class="dropdown-menu rounded-0 m-0">
-                                <a href="testimonial.html" class="dropdown-item">Pool villa</a>
-                                <a href="woodenhouse.html" class="dropdown-item">wooden house</a>
-                                <a href="404.html" class="dropdown-item">Eden Gardens</a>
+                                <a href="testimonial.php" class="dropdown-item">Pool villa</a>
+                                <a href="woodenhouse.php" class="dropdown-item">wooden house</a>
+                                <a href="404.php" class="dropdown-item">Eden Gardens</a>
 
                             </div>
                         </div>  -->
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
                     <a href="tel:7989732763" class="btn  px-3 d-none d-lg-flex nav-item text-white font">7989732763</a>
                 </div>
@@ -104,7 +105,7 @@
                     <div class="row g-0 gx-5 align-items-end">
                         <div class="col-lg-12">
                             <div class=" mx-auto mb-5 wow slideInLeft" data-wow-delay="0.1s">
-                                <h1 class="mb-3 text-center">Wooden House</h1>
+                                <h1 class="mb-3 text-center">Eden Gardens</h1>
                                 <!-- <p class="text-center">Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore
                                 lorem kasd vero
                                 ipsum sit eirmod sit diam justo sed rebum.</p> -->
@@ -113,32 +114,32 @@
 
                     </div>
 
-                    <div class="container section_gap">
+                    <div class="container">
                         <div class="row">
 
                             <div class=" col-md-6 about-img position-relative overflow-hidden p-4 pe-0 mb-3">
 
-                                <img src="img/333.png" alt="" class="img-fluid"  style="width:500px;height:400px">
+                                <img src="img/g6.png" alt="" class="img-fluid"  style="width:500px;height:400px">
                             </div>
 
 
 
                             <div class="col-md-6 g-5 align-items-center">
-                                <p><i class="fa fa-check text me-3"></i><span clsass="fw-bold">2Bed rooms with A.C and 2 Bathrooms with fully equipped.
+                                <p><i class="fa fa-check text me-3"></i><span clsass="fw-bold">  Immerse yourself in the vibrant foliage, featuring coconut trees, flowering plants, and native flora.
                                         </span></p>
-                                <p><i class="fa fa-check text me-3"></i><span clsass="fw-bold"> The house showcases traditional craftsmanship, with polished wooden interiors and an inviting, cozy ambiance.
+                                <p><i class="fa fa-check text me-3"></i><span clsass="fw-bold">   Enjoy peaceful walks along meandering garden paths, accompanied by the soothing rustle of leaves and chirping birds.
                                     </span></p>
-                                <p><i class="fa fa-check text me-3"></i><span clsass="fw-bold"> Large windows and a spacious balcony provide breathtaking views of the surrounding coconut plantations and verdant landscapes.</span>
+                                <p><i class="fa fa-check text me-3"></i><span clsass="fw-bold"> Seasonal blooms fill the garden with color and fragrance, creating a picturesque setting for photos and quiet moments.</span>
                                     
                             </p>
                                     <p><i class="fa fa-check text me-3"></i><span clsass="fw-bold">
-                                         Enjoy a comfortable stay with amenities like air conditioning, Wi-Fi, plush bedding, and a fully equipped bathroom.
+                                         Settle down for a family picnic or a romantic evening under the shade of coconut trees.
                                     </span>
                         
                                         </p>
 
                                         <p><i class="fa fa-check text me-3"></i><span clsass="fw-bold">
-                                             Relax in the outdoor garden, perfect for morning yoga, evening tea, or stargazing at night.
+                                             Spot a variety of birds that make the garden their home, perfect for nature enthusiasts.
                                         </span>
                                           </p>
         
@@ -166,14 +167,14 @@
             </div>
         </section>
 
-   
-           <!-- Footer Start -->
-           <section class="space new_clue">
+    
+         <!-- Footer Start -->
+         <section class="space new_clue">
             <div class="container-fluid bg text-white-50 footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
                 <div class="container py-5">
                     <div class="row g-5">
                         <div class="col-lg-3 col-md-6 col-6">
-                        <a href="wood.html">
+                        <a href="edengarden.php">
                             <img src="img/images.png" class="img-fluid" alt="">
                         </a>
                         </div>
@@ -237,8 +238,8 @@
                         <div class="row">
                             <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
                                 <!-- &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved. -->
-                                <span class="text-body"><a href="terms.html" class=" text-white">Terms & conditions
-                                        :</a><a href="privacy.html" class=" text-white"> Privacy & Policy</a></span>
+                                <span class="text-body"><a href="terms.php" class=" text-white">Terms & conditions
+                                        :</a><a href="privacy.php" class=" text-white"> Privacy & Policy</a></span>
     
                             </div>
     
