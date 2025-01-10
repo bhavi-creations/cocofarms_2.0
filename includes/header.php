@@ -70,26 +70,17 @@
                         <a href="index.php" class="nav-item nav-link active">Home</a>
                         <a href="about.php" class="nav-item nav-link">About</a>
                         <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property</a>
+                            <a href="property-list.php" class="nav-link ">Property</a>
                             <div class="dropdown-menu rounded-0 m-0">
-                                <a href="property-list.php" class="dropdown-item">Property List</a>
-                                 <!-- <a href="Pool villa.php" class="dropdown-item">Pool Villa</a>
+                                  <a href="villa.php" class="dropdown-item">Pool Villa</a>
 
-                                <a href="wooden house.php" class="dropdown-item">Wooden House</a>
-                                <a href="Eden Gardens.php" class="dropdown-item">Eden Gardens</a>  -->
+                                <a href="wood.php" class="dropdown-item">Wooden House</a>
+                                <a href="edengarden.php" class="dropdown-item">Eden Gardens</a>  
                             </div>
                         </div>
                         <a href="gallery.php" class="nav-item nav-link active">Gallery</a>
-<!-- 
-                         <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property types</a>
-                            <div class="dropdown-menu rounded-0 m-0">
-                                <a href="testimonial.php" class="dropdown-item">Pool villa</a>
-                                <a href="woodenhouse.php" class="dropdown-item">wooden house</a>
-                                <a href="404.php" class="dropdown-item">Eden Gardens</a>
 
-                            </div>
-                        </div>  -->
+                      
                         <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
                     <a href="tel:7989732763" class="btn  px-3 d-none d-lg-flex nav-item text-white font">7989732763</a>
@@ -97,3 +88,6 @@
             </nav>
         </div>
         <!-- Navbar End -->
+
+
+
