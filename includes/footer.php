@@ -47,7 +47,7 @@
                                 </div>
                             </div>
                         </div>
-                
+                        
                         <div class="col-lg-3 col-md-6 col-6 touch">
                             <h5 class="text-white mb-4">Get In Touch</h5>
                             <p class="mb-2  text-white"><i class="fa fa-map-marker-alt me-3"></i> Y Junction, Chebrolu,
